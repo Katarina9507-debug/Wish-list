@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	defaultTimeout = 5000 // 10 секунд
+	defaultTimeout = 5000 // 5 секунд
 )
 
 func TestLoginAndWishList(t *testing.T) {
